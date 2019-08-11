@@ -4,7 +4,6 @@
 [在线地址](Han-YLun.github.io)
 
 **图片预览**
-
-![无标题.png](https://i.loli.net/2019/08/11/pm7VZfl5yN9GwU2.png)
-![2222.png](https://i.loli.net/2019/08/11/bYCygj9iDqrRTMA.png)
+![2.png](https://i.loli.net/2019/08/11/icaC7dUQt8FlqpO.png)
+![1.png](https://i.loli.net/2019/08/11/RuM7g28y3WSrfO9.png)
 
