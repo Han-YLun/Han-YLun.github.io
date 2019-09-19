@@ -1,3 +1,3 @@
-window.onload = function(){
-	console.log("感谢您的浏览，期待能够加入贵公司！我的博客：http://47.101.222.133");
+﻿window.onload = function(){
+	console.log("感谢您的浏览，期待能够加入贵公司！我的博客：https://blog.csdn.net/qq_37888382");
 }
